@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="fingerprint_ridge">#b9111c</color>
+
+    <color name="bottombar_tab_active">#b9111c</color>
+    <color name="bottombar_tab_inactive">#747474</color>
+    <color name="bottombar_default_background">#FEFEFE</color>
+
+    <color name="bg_toolbar">@color/cherry_red</color>
+    <color name="text_normal">@color/brownish_grey</color>
+    <color name="text_normal_lighter">#8e8d8d</color>
+    <color name="text_hint">@color/warm_grey</color>
+    <color name="text_disable">#8e8d8d</color>
+    <color name="title_toolbar">#fefefe</color>
+    <color name="unactive">#cccccc</color>
+    <color name="bg_btn_normal">#37b554</color>
+    <color name="black">#363636</color>
+    <color name="pincode_number">#000000</color>
+    <color name="bg_skip">#68d5b8</color>
+    <color name="placeholder">#EEEEEE</color>
+
+    <color name="white">#ffffff</color>
+    <color name="teal">#5fb8a0</color>
+    <color name="bg_btn_green">#6bdbbd</color>
+    <color name="cherry_red">#EB0C1F</color>
+    <color name="warm_grey">#959595</color>
+    <color name="brownish_grey">#636363</color>
+    <color name="brownish_grey_light">#8D8D8D</color>
+    <color name="libstick_red">#c40c24</color>
+    <color name="sidebar_menu_title">#666666</color>
+    <color name="bg_main_customer">#ebe5e5</color>
+    <color name="terracotta">#e4836b</color>
+    <color name="terracotta_2">#fda48e</color>
+    <color name="terracotta_200">#f26c4f</color>
+    <color name="bg_disable">#e1e1e1</color>
+    <color name="appintro_description">#8e8d8d</color>
+    <color name="grey">#b3b3b3</color>
+    <color name="grey_2">#efefef</color>
+    <color name="grey_3">#d7d7d7</color>
+    <color name="grey_4">#f5f2f2</color>
+    <color name="green">#6bdbbd</color>
+    <color name="teal_500">#4ba48c</color>
+    <color name="terracotta_253">#FDA48E</color>
+    <color name="terracotta_background">#FBE4DE</color>
+    <color name="bg_icon_green">#B3DBBD</color>
+
+    <color name="indicator_active">@color/cherry_red</color>
+    <color name="indicator_unactive">#cccccc</color>
+    <color name="ripper_button_color">#dddddd</color>
+    <color name="tablayout_indicator">#fdaf9c</color>
+    <color name="terracotta_3">#FA957C</color>
+    <color name="brown">#813522</color>
+
+    <color name="button_icon_active">#fba491</color>
+    <color name="button_icon_unactive">#b3b3b3</color>
+    <color name="button_text_active">#4ba48c</color>
+    <color name="button_text_unactive">#b3b3b3</color>
+
+
+    <color name="blue">#307DFA</color>
+    <color name="bluedark">#0B3061</color>
+    <color name="darkblue">#051830</color>
+
+    <color name="bg_oil_price">#FDE7E1</color>
+    <color name="bg_tutorial">#65000000</color>
+
+    <color name="title_tutorial_red">#E72F2F</color>
+    <color name="background">#E6000000</color>
+
+    <color name="green_pass">#a4c639</color>
+
+    <color name="yellow">#f2ffdd00</color>
+    <color name="Green">#008000</color>
+</resources>
