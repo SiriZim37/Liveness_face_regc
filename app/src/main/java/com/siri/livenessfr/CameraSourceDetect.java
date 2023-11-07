@@ -72,6 +72,7 @@ public class CameraSourceDetect extends AppCompatActivity implements SurfaceHold
 
     @Override
     public void onRequestPermissionsResult(int requestCode, String permissions[], int[] grantResults) { //after requesting the permission
+        super.onRequestPermissionsResult(requestCode, permissions, grantResults);
         switch (requestCode) { //the request code 1001
             case CameraID: {
                 if (grantResults[0] == PackageManager.PERMISSION_GRANTED) {
